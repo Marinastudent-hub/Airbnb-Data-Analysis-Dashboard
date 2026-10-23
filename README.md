@@ -50,4 +50,7 @@ Recorded prices are analyzed as provided in the collected dataset; they have not
 
 ---
 
+## Dashboard Preview
+
+![Airbnb Power BI Dashboard](Screenshot%202026-10-23%20222439.png)
 *This project was completed as a learning project and represents my first Power BI dashboard.*
